@@ -1,0 +1,93 @@
+body{
+  background-image: url("https://thumbs.dreamstime.com/z/programming-art-painting-human-hand-drawing-program-65834840.jpg");
+  background-repeat:no-repeat;
+  background-position:left;
+  attachment:fixed;
+}
+h1{
+  text-align: right;
+  font-family: "serif";
+  font-size: 3em;
+  font-weight: bold;
+  font-variant:small-caps;
+  background-color: #3399ff;
+  position:sticky;
+}
+.buttons{
+  position: sticky;
+  float: left;
+}
+.projects{
+  position:sticky;
+  border-radius:.7em;
+  background-color:orange;
+  opacity:0.6;
+  transition:0.4s;
+  cursor:pointer;
+  padding:10px;
+  margin:5px;
+  font-size:20px;
+  font-weight:bold;
+  font-variant:small-caps;
+}
+.projects:hover{opacity:1}
+.background{
+  border-radius:.7em;
+  background-color:orange;
+  opacity:0.6;
+  transition:0.4s;
+  cursor:pointer;
+  padding:10px;
+  margin:5px;
+  font-size:20px;
+  font-weight:bold;
+  font-variant:small-caps;
+}
+.background:hover{opacity:1}
+.photos{
+  border-radius:.7em;
+  background-color:orange;
+  opacity:0.6;
+  transition:0.4s;
+  cursor:pointer;
+  padding:10px;
+  margin:5px;
+  font-size:20px;
+  font-weight:bold;
+  font-variant:small-caps;
+}
+.photos:hover{opacity:1}
+.aboutMe{
+  text-align: center;
+  width: 30em;
+  margin-left: 65%;
+  background-color: white;
+  padding: 3em;
+  border-top: 3em white;
+}
+.jessSprite{
+  width:50px;
+  height:40px;
+  margin:5px;
+}
+.aboutPics{
+  text-align:center;
+}
+.uniformPic{
+  border-radius:50px;
+  height:200px;
+  width:250px;
+  margin:2em;
+}
+.drawingPic{
+  border-radius:50px;
+  height:200px;
+  width:270px;
+  margin:2em;
+}
+.programPic{
+  border-radius:50px;
+  height:200px;
+  width:250px;
+  margin:2em;
+}
